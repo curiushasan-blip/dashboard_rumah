@@ -1,0 +1,11 @@
+streamlit>=1.33
+folium>=0.15
+streamlit-folium>=0.19
+pandas>=2.0
+plotly>=5.18
+
+# Opsional -- hanya dibutuhkan untuk fitur sinkronisasi Google Sheets (tab "Sinkronisasi").
+# Boleh dihapus/diberi komentar jika Anda tidak memakai fitur tersebut.
+gspread>=6.0
+google-auth>=2.28
+

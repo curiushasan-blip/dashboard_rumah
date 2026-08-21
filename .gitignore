@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.browser_profile/
+desktop_app.log
+streamlit_server.log

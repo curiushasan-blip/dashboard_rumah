@@ -1,0 +1,318 @@
+[
+  {
+    "id": 1,
+    "nama": "Cluster Green Valley BSD",
+    "alamat": "Jl. Melati Raya Blok C2 No. 15, BSD City, Serpong, Tangerang Selatan, Banten 15310",
+    "latitude": -6.30164,
+    "longitude": 106.6535,
+    "harga": 1850000000,
+    "status": "Nego",
+    "luas_tanah": 90,
+    "luas_bangunan": 75,
+    "kamar_tidur": 3,
+    "kamar_mandi": 2,
+    "carport": 1,
+    "lantai": 2,
+    "tahun_dibangun": 2019,
+    "sertifikat": "SHM",
+    "hadap": "Utara",
+    "developer": "Sinar Mas Land",
+    "deskripsi": "Rumah cluster dua lantai dalam kompleks berpagar dengan keamanan 24 jam. Row jalan cukup lebar, dekat dengan gerbang tol BSD dan area komersial AEON Mall.",
+    "kelebihan": [
+      "Dekat pintu tol BSD (kurang lebih 5 menit)",
+      "Cluster dengan sistem keamanan 24 jam",
+      "Row jalan lebar, mudah untuk 2 mobil berpapasan",
+      "Dekat sekolah dan area komersial"
+    ],
+    "kekurangan": [
+      "Belum ada carport tertutup",
+      "Dapur perlu sedikit renovasi",
+      "Biaya IPL cukup tinggi"
+    ],
+    "gambar": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80"
+    ],
+    "video": "",
+    "kontak_agen": "Pak Yanto - 0812-3456-7890",
+    "sumber_listing": "https://www.rumah123.com/contoh-listing-1",
+    "survey_records": [
+      {
+        "id": 1,
+        "jadwal": "2026-07-12 10:00",
+        "surveyor": "Andi (calon pembeli)",
+        "status": "Selesai",
+        "catatan_persiapan": "Bawa meteran dan cek kondisi genteng.",
+        "kuisioner": {
+          "kondisi_bangunan": 4,
+          "struktur": 4,
+          "akses_jalan": 5,
+          "ketersediaan_air": 4,
+          "sinyal_internet": 5,
+          "ketenangan": 3,
+          "keamanan": 5,
+          "fasilitas_umum": 5,
+          "potensi_banjir": "Tidak",
+          "legalitas_dicek": "Ya",
+          "catatan_tambahan": "Sedikit bocor di plafon kamar tidur belakang, perlu dicek lebih lanjut saat nego harga."
+        },
+        "hasil": {
+          "kesimpulan": "Layak Dilanjutkan",
+          "catatan_hasil": "Kondisi keseluruhan baik, cocok jadi kandidat utama. Ajukan penawaran dengan potongan untuk perbaikan plafon.",
+          "tanggal_selesai": "2026-07-12"
+        }
+      }
+    ],
+    "estimasi_cicilan": 0
+  },
+  {
+    "id": 2,
+    "nama": "Rumah Subsidi Grand Cikarang Residence",
+    "alamat": "Jl. Anggrek Blok F No. 8, Cikarang Selatan, Bekasi, Jawa Barat 17530",
+    "latitude": -6.315,
+    "longitude": 107.152,
+    "harga": 420000000,
+    "status": "Survey",
+    "luas_tanah": 60,
+    "luas_bangunan": 36,
+    "kamar_tidur": 2,
+    "kamar_mandi": 1,
+    "carport": 1,
+    "lantai": 1,
+    "tahun_dibangun": 2023,
+    "sertifikat": "SHM",
+    "hadap": "Timur",
+    "developer": "PT Graha Cikarang Mandiri",
+    "deskripsi": "Rumah subsidi baru siap huni, cocok untuk pasangan muda. Lokasi dekat kawasan industri Cikarang, akses ke Tol Jababeka sekitar 10 menit.",
+    "kelebihan": [
+      "Harga terjangkau, cocok program KPR subsidi",
+      "Rumah baru, belum pernah ditinggali",
+      "Dekat kawasan industri, potensial untuk disewakan"
+    ],
+    "kekurangan": [
+      "Ukuran bangunan minimalis",
+      "Akses jalan menuju lokasi belum sepenuhnya beraspal mulus",
+      "Cukup jauh dari pusat kota"
+    ],
+    "gambar": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+      "https://images.unsplash.com/photo-1523192193543-6e7296d960e4?w=800&q=80",
+      "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=800&q=80"
+    ],
+    "video": "",
+    "kontak_agen": "Ibu Siti - 0813-9988-7766",
+    "sumber_listing": "https://www.rumah123.com/contoh-listing-2",
+    "survey_records": [
+      {
+        "id": 1,
+        "jadwal": "2026-09-02 09:00",
+        "surveyor": "Ibu Siti (agen) & saya",
+        "status": "Terjadwal",
+        "catatan_persiapan": "Konfirmasi akses masuk cluster dan minta salinan sertifikat sebelum datang.",
+        "kuisioner": {},
+        "hasil": {}
+      }
+    ],
+    "estimasi_cicilan": 0
+  },
+  {
+    "id": 3,
+    "nama": "Rumah Second Jl. Margonda Raya",
+    "alamat": "Jl. Margonda Raya Gg. Kelapa No. 22, Depok, Jawa Barat 16424",
+    "latitude": -6.3728,
+    "longitude": 106.8317,
+    "harga": 1250000000,
+    "status": "Deal",
+    "luas_tanah": 120,
+    "luas_bangunan": 100,
+    "kamar_tidur": 4,
+    "kamar_mandi": 3,
+    "carport": 2,
+    "lantai": 2,
+    "tahun_dibangun": 2012,
+    "sertifikat": "SHM",
+    "hadap": "Selatan",
+    "developer": "-",
+    "deskripsi": "Rumah second hitung tanah, lokasi strategis dekat kampus UI dan Margo City Mall. Kondisi bangunan masih kokoh, siap huni dengan sedikit pengecatan ulang.",
+    "kelebihan": [
+      "Lokasi sangat strategis, 5 menit ke Margo City",
+      "Dekat stasiun KRL Pondok Cina",
+      "Tanah luas, cocok untuk keluarga besar",
+      "Harga per meter kompetitif untuk area Depok"
+    ],
+    "kekurangan": [
+      "Bangunan berumur 10+ tahun, perlu pengecekan struktur",
+      "Jalan gang cukup sempit untuk mobil besar"
+    ],
+    "gambar": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=800&q=80"
+    ],
+    "video": "",
+    "kontak_agen": "Pak Deni (Agen) - 0857-1122-3344",
+    "sumber_listing": "https://www.rumah123.com/contoh-listing-3",
+    "survey_records": [
+      {
+        "id": 1,
+        "jadwal": "2026-06-20 13:00",
+        "surveyor": "Pak Deni (agen) & saya",
+        "status": "Selesai",
+        "catatan_persiapan": "",
+        "kuisioner": {
+          "kondisi_bangunan": 4,
+          "struktur": 4,
+          "akses_jalan": 4,
+          "ketersediaan_air": 5,
+          "sinyal_internet": 5,
+          "ketenangan": 4,
+          "keamanan": 4,
+          "fasilitas_umum": 5,
+          "potensi_banjir": "Tidak",
+          "legalitas_dicek": "Ya",
+          "catatan_tambahan": "Rumah second tapi terawat, tidak ada tanda rembes."
+        },
+        "hasil": {
+          "kesimpulan": "Layak Dilanjutkan",
+          "catatan_hasil": "Sudah deal dengan pemilik, tinggal proses AJB.",
+          "tanggal_selesai": "2026-06-20"
+        }
+      }
+    ],
+    "estimasi_cicilan": 0
+  },
+  {
+    "id": 4,
+    "nama": "Townhouse Bintaro Jaya Sektor 9",
+    "alamat": "Jl. Bintaro Utama Blok M2 No. 5, Bintaro Jaya Sektor 9, Tangerang Selatan, Banten 15224",
+    "latitude": -6.2659,
+    "longitude": 106.718,
+    "harga": 2650000000,
+    "status": "Pertimbangan",
+    "luas_tanah": 105,
+    "luas_bangunan": 130,
+    "kamar_tidur": 4,
+    "kamar_mandi": 3,
+    "carport": 2,
+    "lantai": 3,
+    "tahun_dibangun": 2021,
+    "sertifikat": "SHM",
+    "hadap": "Barat",
+    "developer": "Jaya Real Property",
+    "deskripsi": "Townhouse modern 3 lantai dengan desain minimalis, dalam cluster premium dekat Bintaro Xchange Mall dan RS Premier Bintaro.",
+    "kelebihan": [
+      "Desain modern dan mewah",
+      "Dekat mall dan rumah sakit",
+      "One gate system dengan keamanan ketat",
+      "Rooftop bisa dijadikan taman/ruang santai"
+    ],
+    "kekurangan": [
+      "Harga di atas budget awal",
+      "Pajak PBB tergolong tinggi",
+      "Lahan parkir tamu terbatas"
+    ],
+    "gambar": [
+      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=800&q=80",
+      "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800&q=80",
+      "https://images.unsplash.com/photo-1615873968403-89e068629265?w=800&q=80"
+    ],
+    "video": "",
+    "kontak_agen": "Bu Rina - 0811-2233-4455",
+    "sumber_listing": "https://www.rumah123.com/contoh-listing-4",
+    "survey_records": [
+      {
+        "id": 1,
+        "jadwal": "2026-07-30 14:00",
+        "surveyor": "Bu Rina (agen) & saya",
+        "status": "Selesai",
+        "catatan_persiapan": "",
+        "kuisioner": {
+          "kondisi_bangunan": 5,
+          "struktur": 5,
+          "akses_jalan": 4,
+          "ketersediaan_air": 4,
+          "sinyal_internet": 4,
+          "ketenangan": 4,
+          "keamanan": 5,
+          "fasilitas_umum": 4,
+          "potensi_banjir": "Tidak",
+          "legalitas_dicek": "Belum",
+          "catatan_tambahan": "Perlu waktu untuk mengecek ulang skema pembayaran & anggaran."
+        },
+        "hasil": {
+          "kesimpulan": "Masih Dipertimbangkan",
+          "catatan_hasil": "Rumah sangat bagus tapi harga di atas budget, sedang dipertimbangkan ulang.",
+          "tanggal_selesai": "2026-07-30"
+        }
+      }
+    ],
+    "estimasi_cicilan": 0
+  },
+  {
+    "id": 5,
+    "nama": "Cluster Bogor Nirwana Residence",
+    "alamat": "Jl. Bogor Nirwana Boulevard, Kel. Bojongkerta, Bogor Selatan, Kota Bogor, Jawa Barat 16137",
+    "latitude": -6.648,
+    "longitude": 106.789,
+    "harga": 980000000,
+    "status": "Batal",
+    "luas_tanah": 84,
+    "luas_bangunan": 60,
+    "kamar_tidur": 3,
+    "kamar_mandi": 2,
+    "carport": 1,
+    "lantai": 1,
+    "tahun_dibangun": 2018,
+    "sertifikat": "SHM",
+    "hadap": "Utara",
+    "developer": "Bakrieland Development",
+    "deskripsi": "Rumah dalam kawasan hijau dengan udara sejuk khas Bogor, dekat Air Mancur Sri Baduga dan akses Bogor Ring Road. Dibatalkan karena hasil survei menunjukkan area rawan macet saat akhir pekan.",
+    "kelebihan": [
+      "Udara sejuk, lingkungan asri",
+      "Dekat taman dan area rekreasi keluarga",
+      "Harga relatif terjangkau untuk luas tanah ini"
+    ],
+    "kekurangan": [
+      "Rawan macet parah di akhir pekan/musim liburan",
+      "Jarak tempuh ke Jakarta cukup jauh (sekitar 1.5-2 jam)",
+      "Row jalan utama sering padat"
+    ],
+    "gambar": [
+      "https://images.unsplash.com/photo-1598228723793-52759bba239c?w=800&q=80",
+      "https://images.unsplash.com/photo-1523480717984-63a7e5ec7f10?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80"
+    ],
+    "video": "",
+    "kontak_agen": "Pak Joko - 0878-5566-7788",
+    "sumber_listing": "https://www.rumah123.com/contoh-listing-5",
+    "survey_records": [
+      {
+        "id": 1,
+        "jadwal": "2026-05-15 09:30",
+        "surveyor": "Pak Joko (agen) & saya",
+        "status": "Selesai",
+        "catatan_persiapan": "",
+        "kuisioner": {
+          "kondisi_bangunan": 4,
+          "struktur": 4,
+          "akses_jalan": 2,
+          "ketersediaan_air": 4,
+          "sinyal_internet": 3,
+          "ketenangan": 3,
+          "keamanan": 4,
+          "fasilitas_umum": 4,
+          "potensi_banjir": "Tidak Tahu",
+          "legalitas_dicek": "Ya",
+          "catatan_tambahan": "Akses jalan utama macet parah saat akhir pekan dikunjungi."
+        },
+        "hasil": {
+          "kesimpulan": "Tidak Layak",
+          "catatan_hasil": "Dibatalkan karena akses jalan bermasalah di akhir pekan, tidak sesuai kebutuhan mobilitas harian.",
+          "tanggal_selesai": "2026-05-15"
+        }
+      }
+    ],
+    "estimasi_cicilan": 0
+  }
+]
