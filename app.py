@@ -357,9 +357,12 @@ def render_detail(house):
             )
 
         st.write("")
-        c1, c2, c3, c4, c5, c6 = st.columns(6)
+        c1, c2 = st.columns(2)
         c1.metric("LT", f'{house.get("luas_tanah", 0)} m\u00b2')
         c2.metric("LB", f'{house.get("luas_bangunan", 0)} m\u00b2')
+
+        st.write("")
+        c3, c4, c5, c6 = st.columns(4)
         c3.metric("KT", house.get("kamar_tidur", 0))
         c4.metric("KM", house.get("kamar_mandi", 0))
         c5.metric("Carport", house.get("carport", 0))
